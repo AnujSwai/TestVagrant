@@ -1,0 +1,49 @@
+Prerequisites
+Before you begin, make sure you have the following software installed on your system:
+
+Java Development Kit (JDK): You'll need JDK installed to compile and run Java programs. You can download it from Oracle's official website or use an open-source distribution like OpenJDK.
+A text editor or Integrated Development Environment (IDE): You'll need a text editor (e.g., Notepad++, Visual Studio Code) or an IDE (e.g., Eclipse, IntelliJ IDEA) to write and edit Java code.
+Compiling the Java Program
+
+Open a terminal or command prompt.
+Navigate to the directory where the Java program file TestVagrant.java is located using the cd command. For example:
+bash
+Copy code
+cd path/to/your/program
+Compile the Java program using the javac command followed by the program's filename. For example:
+bash
+Copy code
+javac TestVagrant.java
+If the compilation is successful, this will generate a bytecode file named TestVagrant.java.
+Running the Java Program
+
+In the same terminal or command prompt, run the compiled Java program using the java command followed by the class name (excluding the .class extension). For example:
+bash
+Copy code
+java TestVagrant.java
+The program's output should now be displayed in the terminal.
+Program Usage
+
+Provide any instructions or information about how to use your Java program here. Explain the expected input format, command-line arguments, or user interactions if applicable.
+
+Example
+
+If applicable, provide an example command or sequence of commands to compile and run your Java program, along with the expected output.
+
+bash
+Copy code
+# Compiling the program
+javac YourProgramName.java
+
+# Running the program
+TestVagrant.java
+Troubleshooting
+
+#Note
+Vales are hardcoded make sure do changes in value in input section.default value is 40.
+
+If you encounter any errors during compilation or execution, double-check the following:
+
+Make sure you have correctly installed the Java Development Kit (JDK).
+Verify that you are using the correct commands for compilation (javac) and execution (java).
+Ensure that your Java program file has the correct filename and is located in the directory you are working in.
