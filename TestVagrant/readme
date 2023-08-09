@@ -40,7 +40,8 @@ TestVagrant.java
 Troubleshooting
 
 #Note
-Vales are hardcoded make sure do changes in value in input section.default value is 40.
+you have to enter a value in the prompt.for example 
+Enter weekly budget:40(you have to enter value 40)
 
 If you encounter any errors during compilation or execution, double-check the following:
 
